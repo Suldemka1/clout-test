@@ -1,0 +1,15 @@
+.new-messages {
+  background-color: var(--blue);
+}
+
+.date__message {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  p {
+    width: fit-content;
+    background-color: #407ec914;
+    padding: 8px 12px;
+    text-align: center;
+  }
+}

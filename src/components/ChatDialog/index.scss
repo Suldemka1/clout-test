@@ -1,0 +1,10 @@
+.chat__dialog {
+  position: relative;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+
+  overflow-y: auto;
+  padding: 16px 24px;
+}
